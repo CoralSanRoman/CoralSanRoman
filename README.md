@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... NI StADS data
+- 🔭 I’m currently working on ... NI StAD data
 - 🌱 I’m currently learning ... how to use Git and GitHub!
 - 👯 I’m looking to collaborate on ... data!
 - 🤔 I’m looking for help with ... GitHub
